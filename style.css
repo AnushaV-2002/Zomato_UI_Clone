@@ -126,9 +126,9 @@
     
     @media (min-width: 1024px) {
       .button-76 {
-        font-size: 1.5rem; /* 24px */
+        font-size: 1.5rem;
         padding: 10px;
-        line-height: 2rem; /* 32px */
+        line-height: 2rem; 
       }
 }
 
@@ -227,9 +227,9 @@
       color: #fff;
       cursor: pointer;
       font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-      font-size: 1.125rem; /* 18px */
+      font-size: 1.125rem; 
       font-weight: 600;
-      line-height: 1.75rem; /* 28px */
+      line-height: 1.75rem; 
       padding: 10px;
       text-align: center;
       user-select: none;
