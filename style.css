@@ -209,7 +209,7 @@
     height:390px;
    background-color: white;
     color:black;
-    border-radius: 8px 0 0 8px;
+    border-radius: 8px;
 }
 .section button{
     width:70%;
